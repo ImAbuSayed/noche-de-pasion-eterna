@@ -1,4 +1,4 @@
-# Noche de pasión eterna
+# Noche de pasión eterna, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Noche de pasión eterna |
+| **Title** | Noche de pasión eterna, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-pasion-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noche de pasión eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion-eterna/) |
+| **Get License** | [Secure Licensing Rights for Noche de pasión eterna, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú resaltas con ese piquete y flow de Madrid
+> Desde que entraste a la disco yo supe que eras para mí
+> Apaga el teléfono, mami, que hoy nos vamos a perder
+> Esta noche es tuya y nadie más lo tiene que saber
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `57a109322638c05ff217856f0c8bf411c912d4137f717908096d27cf3d13b787` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
